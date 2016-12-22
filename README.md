@@ -1,12 +1,12 @@
 # Usage
 ```
-//init
+#init
 $ npm install
 
-//development
+#development
 $ npm run start
 
-//production
+#production
 $ npm run build
 ```
 
