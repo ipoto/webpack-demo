@@ -1,2 +1,12 @@
-# webpack-demo
-记录点有用到的
+# Usage
+```
+//init
+$ npm install
+
+//development
+$ npm run start
+
+//production
+$ npm run build
+```
+
